@@ -77,7 +77,7 @@ $ $GOPATH/bin/python3 snake-game
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/DaviFdePaula" target="_blank">{{Davi Ferreira de Paula}}</a>
+Made with :heart: by <a href="https://github.com/DaviFdePaula" target="_blank">Davi Ferreira de Paula</a>
 
 &#xa0;
 
